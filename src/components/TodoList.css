@@ -1,0 +1,13 @@
+.ListStyles {
+	width: 600px;
+	background-color: #d3d3d3;
+}
+
+li {
+    list-style-type: none;
+    text-align: -webkit-match-parent;
+}
+
+button {
+	background-color: red;
+}

@@ -1,0 +1,10 @@
+Before optimize:
+
+				app.bundle.js	index.html
+Loading time:				49742 ms
+Size: 				822 kB			208 B
+
+After optimize:
+				app.bundle.js	index.html
+Loading time:				76096 ms
+Size: 				341 kB			208 B
